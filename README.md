@@ -24,10 +24,8 @@ Câmeras IP são populares para segurança, mas nem sempre oferecem uma boa expe
 - [ ] Modo **transmissor** (celular que fica no ambiente) e modo **receptor** (celular/navegador de quem monitora)
 - [ ] Acesso pela rede local (Wi-Fi)
 - [ ] Acesso remoto pela internet
-- [ ] Autenticação com usuário/senha ou código de pareamento
-- [ ] Execução em segundo plano com serviço em primeiro plano (Foreground Service) e notificação visível
-- [ ] Detecção de som/ruído com alertas
 - [ ] Compatibilidade com players e softwares que suportam RTSP/HTTP
+- [ ] Autenticação com usuário/senha ou código de pareamento
 
 ## 🛠️ Tecnologias
 
@@ -50,14 +48,6 @@ git clone https://github.com/annderoli/ipmic.git
 # Abra a pasta do projeto no Android Studio
 # e execute em um dispositivo ou emulador Android
 ```
-
-## 🔐 Privacidade e uso responsável
-
-O IPMic foi pensado para **segurança e cuidado**, não para vigilância às escondidas.
-
-- Use o app apenas em ambientes e com pessoas que **saibam e concordem** com o monitoramento.
-- Gravar ou escutar conversas de terceiros sem consentimento pode ser **ilegal** em muitos lugares, incluindo o Brasil.
-- O Android exibe indicadores de uso de microfone e câmera, e o app deve manter uma **notificação visível** enquanto estiver transmitindo.
 
 ## 📄 Status
 
