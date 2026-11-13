@@ -1,8 +1,8 @@
-# 🎙️ IPMic
+# Clean
 
 **Transforme um celular Android em uma câmera ou microfone IP para monitoramento remoto.**
 
-O **IPMic** é um aplicativo Android, desenvolvido em **Kotlin**, para conexão remota de microfone — funcionando como as câmeras IP, mas com acesso ao microfone (e também à câmera). Com ele, um celular Android moderno pode ser transformado em uma **câmera ou microfone IP** para monitoramento à distância, ajudando na **segurança domiciliar** ou no acompanhamento de **familiares** (como crianças, idosos ou pessoas que precisam de cuidados).
+O **Clean** é um aplicativo Android, desenvolvido em **Kotlin**, para conexão remota de microfone — funcionando como as câmeras IP, mas com acesso ao microfone (e também à câmera). Com ele, um celular Android moderno pode ser transformado em uma **câmera ou microfone IP** para monitoramento à distância, ajudando na **segurança domiciliar** ou no acompanhamento de **familiares** (como crianças, idosos ou pessoas que precisam de cuidados).
 
 > 💡 Aquele celular antigo parado na gaveta pode virar um dispositivo de monitoramento.
 
